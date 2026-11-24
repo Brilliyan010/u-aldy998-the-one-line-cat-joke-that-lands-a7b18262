@@ -13,7 +13,7 @@
 //     nothing after the punchline to explain it.
 //   * Retellable: short, concrete, and instantly recognisable to anyone
 //     who has been woken by a cat at 3 a.m.
-//   * 61 characters, one line, no padding.
+//   * 63 characters, one line, no padding.
 
 import { mkdirSync, writeFileSync } from "node:fs";
 
